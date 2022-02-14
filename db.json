@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "andres",
+      "empresa": "movistar",
+      "email": "correor@correo.com",
+      "telefono": "12345",
+      "notas": "sin red",
+      "id": 3
+    },
+    {
+      "nombre": "brillit",
+      "empresa": "comfenalco",
+      "email": "brillit@brillt.com",
+      "telefono": "222222",
+      "notas": "psicologa",
+      "id": 4
+    },
+    {
+      "nombre": "kevin navarro ",
+      "empresa": "ninguna",
+      "email": "kevinnavarto@gmail.com",
+      "telefono": "1234567890",
+      "notas": "busco empleo",
+      "id": 5
+    }
+  ]
+}
